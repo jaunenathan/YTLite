@@ -30,7 +30,7 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
     <tr>
       <td><img src="Resources/scr7.jpg" alt="Screenshot 7" /></td>
       <td><img src="Resources/scr8.jpg" alt="Screenshot 8" /></td>
-      <td><img src="Resources/scr9.jpg" alt="Screenshot 9" /></td>
+      <td><img src="Resources/scr9.jpg" alt="Screenshot 8" /></td>
     </tr>
   </table>
 </details>
